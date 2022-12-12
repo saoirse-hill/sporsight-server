@@ -16,7 +16,7 @@
     "@tensorflow-models/posenet": "^2.2.1",
     "@tensorflow/tfjs": "^1.7.2",
     "canvas": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "request": "^2.88.2",
     "uuid": "^7.0.3"
